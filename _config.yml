@@ -1,2 +1,3 @@
 title: "Neuro By the Numbers"
-theme: minima   # you can change this later
+theme: minima   # or any GitHub-supported theme
+markdown: kramdown
