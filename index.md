@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neuro By the Numbers
+title: ""
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
