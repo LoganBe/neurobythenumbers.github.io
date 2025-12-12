@@ -3,6 +3,9 @@ layout: default
 title: Neuro By the Numbers
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+
 # Neuro By the Numbers
 
 ### *Course Location • Days/Times • Instructor: Logan Becker*
